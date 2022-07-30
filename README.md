@@ -41,4 +41,4 @@ I love the entire process of developing creative softwares. I love the challenge
 
 [![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavGaneriwala)](https://github.com/VaibhavGaneriwala)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.VaibhavGaneriwala)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=VaibhavGaneriwala.VaibhavGaneriwala)
