@@ -15,7 +15,7 @@ I love the entire process of developing creative softwares. I love the challenge
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/vaibhav-ganeriwala/"><img align="left" src="linkedin.svg" alt="Vaibhav Ganeriwala | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/vaibhav.ganeriwala/"><img align="left" src="instagram.svg" alt="Vaibhav Ganeriwala | Instagram" width="21px"/></a>
-<a href="vaibhavganeriwala.medium.com/"><img align="left" src="medium.svg" alt="Vaibhav Ganeriwala | Medium" width="21px"/></a>
+<a href="https://vaibhavganeriwala.medium.com/"><img align="left" src="medium.svg" alt="Vaibhav Ganeriwala | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
