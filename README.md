@@ -30,7 +30,7 @@ I love the entire process of developing creative softwares. I love the challenge
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&color=181717)
 <br>
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 <br>
