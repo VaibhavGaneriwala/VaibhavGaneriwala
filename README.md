@@ -5,3 +5,7 @@
 <h3 align="center">
 Hi there, I'm <a rel="noreferrer">Vaibhav Ganeriwala</a> 👋
 </h3>
+
+<h2 align="center">
+I'm a Full-Time Student, Software Engineer, and Data Scientist 💻!
+</h2> 
