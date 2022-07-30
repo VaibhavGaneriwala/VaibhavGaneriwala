@@ -21,11 +21,11 @@ I love the entire process of developing creative softwares. I love the challenge
 
 ## 🔭 I'm currently working on
 
-- Restaurant Recommendation App (MERN)
+- Still In Progress
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- 📱 Python
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
