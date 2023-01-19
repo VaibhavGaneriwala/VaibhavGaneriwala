@@ -26,6 +26,7 @@ I love the entire process of developing creative softwares. I love the challenge
 ## 🌱 I'm currently learning
 
 - 📱 Python
+- 📱 React
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
