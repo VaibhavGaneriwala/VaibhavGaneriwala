@@ -1,8 +1,5 @@
 ## Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Vaibhav
 
-[<img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube]
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev" />][devto]
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
@@ -72,16 +69,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreejitverma)
 <br />
 
-[twitter]: https://twitter.com/shreejitverma
-[youtube]: https://www.youtube.com/channel/UCkxV3Br2EsN0lxWowBFOpKw
-[website]: https://www.shreejitverma.com/
-[instagram]: https://www.instagram.com/shreejitverma/
-[discord]: https://discord.gg/As463f7tv4
-[linkedin]: https://www.linkedin.com/in/shreejitverma/
-[devto]: https://dev.to/shreejitverma
-[gmail]: mailto:shreejitverma@gmail.com
-[facebook]: https://facebook.com/shreejitverma
-[patreon]: https://www.patreon.com/shreejitverma
+[instagram]: https://www.instagram.com/vaibhav.ganeriwala/
+[linkedin]: https://www.linkedin.com/in/vaibhav-ganeriwala/
+[gmail]: mailto:vaibhav@ganeriwala.com
+[facebook]: https://facebook.com/vaibhav.ganeriwala
 [paypal]: paypal.me/vaibhavganeriwala
 
 ## Connect With Me:
@@ -93,7 +84,6 @@
 [<img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev" />][devto]
 [<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
 <br />
 
