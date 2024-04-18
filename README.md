@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&random=false&width=430&lines=Hi%2C+I'm+Vaibhav+Ganeriwala)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&random=false&width=430&lines=Hi%2C+I'm+Vaibhav+Ganeriwala)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
