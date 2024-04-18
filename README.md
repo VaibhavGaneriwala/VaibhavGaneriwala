@@ -82,7 +82,7 @@
 [gmail]: mailto:shreejitverma@gmail.com
 [facebook]: https://facebook.com/shreejitverma
 [patreon]: https://www.patreon.com/shreejitverma
-[paypal]: https://paypal.me/shreejitverma?country.x=IN&locale.x=en_GB
+[paypal]: paypal.me/vaibhavganeriwala
 
 ## Connect With Me:
 
