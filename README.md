@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&random=false&width=430&lines=Hi%2C+I'm+Vaibhav+Ganeriwala)](https://git.io/typing-svg)
 <p align="center"><img src="https://komarev.com/ghpvc/?username=VaibhavGaneriwala" alt="Profile Views" /></p>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&random=false&width=430&lines=Hi%2C+I'm+Vaibhav+Ganeriwala)](https://git.io/typing-svg)
 
 ## About Me 🚀
 ### I am pursuing my Bachelors of Technology in Computer Science Engineering
