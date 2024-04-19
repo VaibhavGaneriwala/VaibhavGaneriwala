@@ -9,10 +9,10 @@
 
 👨‍💻 I am interested in Formula 1 🏎️, Computer Science 💻, reading books 📚 & I enjoy learning new things. </br>
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working towards making a career in Computer Science 💻
 - 🌱 I’m currently learning <b>Salesforce</b>
-- 💬 Ask me about
-- ⚡ Fun fact
+- 💬 Ask me about nothing!
+- ⚡ Fun fact - There are around 700 separate programming languages.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vaibhav-ganeriwala) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav.ganeriwala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-ganeriwala) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vaibhavganeriwala) 
