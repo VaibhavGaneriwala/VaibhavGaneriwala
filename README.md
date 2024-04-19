@@ -1,5 +1,12 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&random=false&width=430&lines=Hi%2C+I'm+Vaibhav+Ganeriwala)](https://git.io/typing-svg)
-***
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&random=false&width=430&lines=Hi%2C+I'm+Vaibhav+Ganeriwala)](https://git.io/typing-svg) 
+<details>
+<summary>GitHub Profile Views</summary>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VaibhavGaneriwala" alt="Profile Views" />
+</p>
+</details>
+
 ## About Me 🚀
 ### I am pursuing my Bachelors of Technology in Computer Science Engineering
 
@@ -35,9 +42,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://komarev.com/ghpvc/?username=VaibhavGaneriwala)](https://github.com/VaibhavGaneriwala)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vaibhavganeriwala) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vaibhavganeriwala) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vaibhavganeriwala) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vaibhavganeriwala) 
 
