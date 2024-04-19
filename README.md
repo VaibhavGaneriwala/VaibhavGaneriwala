@@ -10,7 +10,7 @@
 👨‍💻 I am interested in Formula 1 🏎️, Computer Science 💻, reading books 📚 & I enjoy learning new things. </br>
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+- 🌱 I’m currently learning <bold>Salesforce</bold>
 - 💬 Ask me about
 - ⚡ Fun fact
 
