@@ -5,7 +5,7 @@
 ## About Me 🚀
 ### I am pursuing my Masters of Science in Computer Science from Stevens Insitute of Technology, USA
 
-🎓 I am currently pursuing my Bachelors of Technology in Computer Science Engineering from Bennett University, Greater Noida </br>
+🎓 I have done my Bachelors of Technology in Computer Science Engineering from Bennett University, India </br>
 
 👨‍💻 I am interested in Formula 1 🏎️, Computer Science 💻, reading books 📚 & I enjoy learning new things. </br>
 
