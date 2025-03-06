@@ -1,7 +1,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=VaibhavGaneriwala" alt="Profile Views" /></p>
 
 <div align="center">
- # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&random=false&width=430&lines=Hi%2C+I'm+Vaibhav+Ganeriwala)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=250&color=BB60FFB3&background=FFFFFF00&center=true&width=435&lines=Hi%2C+I+am+Vaibhav+Ganeriwala;I+am+Computer+Science+Student" alt="Hi, I am Vaibhav" /></a>
 </div>
 
 ## About Me 🚀
