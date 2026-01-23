@@ -20,15 +20,16 @@ jobs:
         run: |
           memes=(
             "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-            "https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"
-            "https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
-            "https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif"
-            "https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif"
-            "https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif"
-            "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
+            "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
+            "https://media.giphy.com/media/YtuM97Re5whK87zJnP/giphy.gif"
+            "https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"
             "https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
-            "https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"
-            "https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif"
+            "https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif"
+            "https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif"
+            "https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"
+            "https://media.giphy.com/media/111ebonMs90YLu/giphy.gif"
+            "https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif"
+            "https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif"
           )
           idx=$(( RANDOM % ${#memes[@]} ))
           echo "url=${memes[$idx]}" >> "$GITHUB_OUTPUT"
