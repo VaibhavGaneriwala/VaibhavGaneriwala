@@ -85,7 +85,7 @@
     </td>
     <td align="center" width="50%">
      <!--START_SECTION:devmeme-->
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Meme" width="350"/>
+      <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Coding Meme" width="350"/>
      <!--END_SECTION:devmeme-->
     </td>
   </tr>
