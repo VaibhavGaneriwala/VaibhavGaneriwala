@@ -1,0 +1,60 @@
+name: Update Dev Meme
+
+on:
+  schedule:
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-meme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Pick a random meme URL
+        id: meme
+        run: |
+          memes=(
+            "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+            "https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"
+            "https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
+            "https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif"
+            "https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif"
+            "https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif"
+            "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
+            "https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
+            "https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"
+            "https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif"
+          )
+          idx=$(( RANDOM % ${#memes[@]} ))
+          echo "url=${memes[$idx]}" >> "$GITHUB_OUTPUT"
+
+      - name: Update README meme section
+        run: |
+          README="README.md"
+          START="<!--START_SECTION:devmeme-->"
+          END="<!--END_SECTION:devmeme-->"
+          NEW="<img src=\"${{ steps.meme.outputs.url }}\" alt=\"Coding Meme\" width=\"350\"/>"
+
+          # Replace only the content between START and END markers
+          awk -v start="$START" -v end="$END" -v new="$NEW" '
+            BEGIN {inblock=0}
+            {
+              if ($0 ~ start) {print; print "      " new; inblock=1; next}
+              if ($0 ~ end) {inblock=0; print; next}
+              if (inblock==0) print
+            }
+          ' "$README" > README.tmp && mv README.tmp "$README"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update dev meme"
+          git push
