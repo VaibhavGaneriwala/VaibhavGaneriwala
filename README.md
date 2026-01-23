@@ -1,67 +1,90 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=VaibhavGaneriwala" alt="Profile Views" /></p>
+<!-- Profile README for VaibhavGaneriwala -->
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Vaibhav+Ganeriwala;I+am+Computer+Science+Student" alt="Hi, I am Vaibhav" /></a>
-</div>
+<!-- Intro Heading Typing SVG -->
+<h1 align="center">
+ $$\color{#36BCF7FF}\textrm{Hi, I'm Vaibhav Ganeriwala 👋}$$
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&size=20&pause=2000&center=true&vCenter=true&width=900&lines=MS+Computer+Science+%40+Stevens+Institute+Of+Technology+%7C+May+2026;Software+Engineer+(Backend+%2F+Full-Stack);Building+APIs%2C+Systems%2C+and+products+with+Python%2C+JavaScript%2C+SQL" alt="Typing SVG" />
+ </a>
+</h1>
 
-## About Me 🚀
-### I am pursuing my Masters of Science in Computer Science from Stevens Insitute of Technology, USA
+<!-- Contact Me / Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-ganeriwala/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin">
+  </a>
+  <a href="mailto:vaibhav@ganeriwala.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail">
+  </a>
+  <img alt="Location" src="https://img.shields.io/badge/Location-Jersey%20City%2C%20NJ-informational">
+  <img alt="Open to Work" src="https://img.shields.io/badge/Open_To_Roles-Across_The_US-green">
+</p>
 
-🎓 I have done my Bachelors of Technology in Computer Science Engineering from Bennett University, India </br>
+<!-- About Me -->
+## About Me
+- **Masters of Science in Computer Science** @ Stevens Institute of Technology (**May 2026**)
+- I’m focused on **backend + full-stack engineering**: APIs, databases, auth, and scalable apps.
+- Strong in **Python, JavaScript, SQL** — comfortable working end-to-end from data to UI.
+- Open to opportunities across the **United States** (F-1 / OPT)
 
-👨‍💻 I am interested in Formula 1 🏎️, Computer Science 💻, reading books 📚 & I enjoy learning new things. </br>
+<!-- Tech Stack -->
+## Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- 🔭 I’m currently working towards making a career in Computer Science 💻
-- 🌱 I’m currently learning <b>Salesforce</b>
-- 💬 Ask me about nothing!
-- ⚡ Fun fact - There are around 700 separate programming languages.
+### Web / Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vaibhav-ganeriwala) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav.ganeriwala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-ganeriwala) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vaibhavganeriwala) 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# 💻 Tech Stack:
-![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
- <br>
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-<br>
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-<br>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-<br>
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+### Data / ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VaibhavGaneriwala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavGaneriwala&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGaneriwala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### Tools & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VaibhavGaneriwala&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+### Platform Exposure
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Featured Projects
+- **FitTracker (Full-Stack, Dockerized)** — React/TS + Node/TS + MongoDB + Redis + MinIO  
+- **Medication Adherence Tracker (Mobile + APIs)** — React Native (Expo) + Node/Express + MongoDB + OpenAI integration  
+- **Smart Warehouse Inventory System** — Node.js + MongoDB + dashboards + auditing workflows  
 
-## 💰 Support Me!
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/VaibhavG2002) 
+## GitHub Stats
+<p align="center">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=VaibhavGaneriwala&show_icons=true&theme=transparent&hide_border=true" height="160" /> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGaneriwala&layout=compact&theme=transparent&hide_border=true" height="160" />
+</p>
 
+## Random Quote and Meme
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Meme" width="350"/>
+    </td>
+  </tr>
+</table>
