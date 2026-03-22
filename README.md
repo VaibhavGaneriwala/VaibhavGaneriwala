@@ -22,60 +22,62 @@
 
 <!-- About Me -->
 ## About Me
-- **Masters of Science in Computer Science** @ Stevens Institute of Technology (**May 2026**)
-- I’m focused on **backend + full-stack engineering**: APIs, databases, auth, and scalable apps.
-- Strong in **Python, JavaScript, SQL** — comfortable working end-to-end from data to UI.
-- Open to opportunities across the **United States** (F-1 / OPT)
+- **MS in Computer Science** @ Stevens Institute of Technology (graduating **May 2026**)
+- Focused on **backend + full-stack engineering**: APIs, databases, authentication, and scalable containerized apps
+- Strong in **Python, JavaScript/TypeScript, SQL** — comfortable working end-to-end from data pipelines to UI
+- Open to **Software Engineer, Backend, Full-Stack, and Data Engineering** roles across the US (F-1 OPT eligible)
 
 <!-- Tech Stack -->
 ## Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Web / Backend
+### Backend & Infrastructure
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Data / ML
+### Data & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Tools & Collaboration
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Platform Exposure
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
 ## Featured Projects
-- **FitTracker (Full-Stack, Dockerized)** — React/TS + Node/TS + MongoDB + Redis + MinIO  
-- **Medication Adherence Tracker (Mobile + APIs)** — React Native (Expo) + Node/Express + MongoDB + OpenAI integration  
-- **Smart Warehouse Inventory System** — Node.js + MongoDB + dashboards + auditing workflows  
-
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**Fit Tracker**](https://github.com/VaibhavGaneriwala/fit-tracker) | React/TS, Node/TS, MongoDB, Redis, MinIO, Docker | Dockerized full-stack fitness app with auth, caching, image uploads, and social feed |
+| [**Medication Adherence Tracker**](https://github.com/VaibhavGaneriwala/medication-adherence-tracker) | React Native, Node/Express, MongoDB | Cross-platform mobile app with RBAC, 15+ API endpoints, and provider analytics |
+| [**Smart Warehouse Inventory**](https://github.com/VaibhavGaneriwala/smart-warehouse-inventory-system) | Node.js, Express, MongoDB, Chart.js | Inventory management with real-time dashboards, alerting, and audit workflows |
 ## GitHub Stats
-<p align="center">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=VaibhavGaneriwala&show_icons=true&theme=transparent&hide_border=true" height="160" /> -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGaneriwala&layout=compact&theme=transparent&hide_border=true" height="160" />
-</p>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGaneriwala&layout=compact&theme=transparent&hide_border=true)
+
+**Reach me at** [vaibhav@ganeriwala.com](mailto:vaibhav@ganeriwala.com) — always happy to chat about projects, opportunities, or tech in general.
 
 ## Random Quote and Meme
 <table align="center">
