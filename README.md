@@ -22,10 +22,10 @@
 
 <!-- About Me -->
 ## About Me
-- **MS in Computer Science** @ Stevens Institute of Technology (graduating **May 2026**)
+- **MS in Computer Science** @ Stevens Institute of Technology (graduated **May 2026**)
 - Focused on **backend + full-stack engineering**: APIs, databases, authentication, and scalable containerized apps
 - Strong in **Python, JavaScript/TypeScript, SQL** — comfortable working end-to-end from data pipelines to UI
-- Open to **Software Engineer, Backend, Full-Stack, and Data Engineering** roles across the US
+- Open to **Software Engineer, Backend, Full-Stack** roles across the US
 
 <!-- Tech Stack -->
 ## Tech Stack
